@@ -124,6 +124,10 @@ h3 {
     animation: flash 1.5s infinite;
   }
 
+  h4 {
+    color: #CBC3E3;
+  } 
+
 .LOGO {
     width: 9%;
     height: auto;
@@ -153,6 +157,7 @@ h3 {
     margin-top: 2em;
     font-weight: 900;
   }
+  /* Hulp van W3schools */
   
   #naartopknop:hover {
     background-color: turquoise;
